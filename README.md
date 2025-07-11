@@ -2,8 +2,10 @@
 
 A simple Agent-Based Model (ABM) inspired by the book *"How an Economy Grows and Why It Crashes"*. This simulation, built with Pygame, visualizes the economic development of a small island, from subsistence survival to capital formation, productivity growth, and the emergence of inequality.
 
-  
-*(在这里放一张你的模拟器截图或GIF动图！)*
+  ![game](https://github.com/user-attachments/assets/3c6115c9-62db-4cae-994a-f7ae6465f8cd)<img width="1600" height="1500" alt="img" src="https://github.com/user-attachments/assets/42c42e29-686d-4d03-ba18-0a1803a48b80" />
+
+
+
 
 ## Features
 
